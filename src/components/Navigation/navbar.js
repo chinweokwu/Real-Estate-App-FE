@@ -7,7 +7,6 @@ const Navigation = () => {
     <>
       <CssBaseline/>
       <AppBar>
-        11234567890
       </AppBar>
     </>
   )
